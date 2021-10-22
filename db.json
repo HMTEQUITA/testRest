@@ -2,8 +2,19 @@
 {
   "get": [
     {
+      "id": 987654321
       "accountType": "D",
       "accountNumber": "55956565"
+    },
+    {
+      "id": 123456789
+      "accountType": "D",
+      "accountNumber": "669695955"
+    },
+    {
+      "id": 111111111
+      "accountType": "S",
+      "accountNumber": "669695955"
     }
   ]
 }
